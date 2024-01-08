@@ -14,3 +14,8 @@
 
 # Backend 
   - Admin Route setup
+  - Admin sinh-up
+  - Admin Login
+  - JWT token generated
+  - environment variable added
+  
